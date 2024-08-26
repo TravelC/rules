@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,react.email
+  - DOMAIN-SUFFIX,npmjs.com
